@@ -3,7 +3,6 @@
 namespace App\Livewire;
 
 use App\Models\book;
-use Illuminate\Support\Facades\Auth;
 use Livewire\Component;
 
 class BookUser extends Component
